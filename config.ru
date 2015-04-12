@@ -1,2 +1,2 @@
 require "hello_sinatra"
-run Sinatra:Application
+run Sinatra::Application
